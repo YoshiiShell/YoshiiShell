@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @YoshiiShell
+- 👀 I’m interested in Batch Windows scripts
+- 🌱 I’m currently learning Batch and Windows
+- 💞️ I’m looking to collaborate on Windows optimization programs
+- 📫 How to reach me @yoshii63 on Twitter or @yoshii64 on Discord
+- 😄 Pronouns: he/him
